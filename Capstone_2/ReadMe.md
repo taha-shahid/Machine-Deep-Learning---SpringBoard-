@@ -1,12 +1,14 @@
 Capstone Project 2 - Weather Prediction of Szeged using Neural Networks
 
-In this project, the data for Weather in Szeged 2006-2016 was acquired from the Kaggle repository. The data includes hourly recording of weather for 10 years. In this capstone, deep neural network regressor technqiue was used as the primary prediction model. The traditional and deep learning techniques/ algorithms have been applied in the following order below.
+In this project, the data for Weather in Szeged 2006-2016 was acquired from the Kaggle repository. The data includes hourly recording of weather for 10 years. In this capstone, deep neural network regressor technqiue was used as the primary prediction model. The traditional and deep learning techniques/ algorithms have been applied in the following order below. (FE) stands for after feature engineering.
 
-  Linear Regression
+  1. Linear Regression
+  
+  2. Linear Regression (FE)
 
-  Deep Neural Network Regressor
+  3. Deep Neural Network Regressor (FE)
 
-  LSTM nueral network
+  4. LSTM nueral network (FE)
 
 https://github.com/taha-shahid/SpringBoard/blob/master/Capstone_2/Capstone2_Final.ipynb
 
